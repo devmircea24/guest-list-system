@@ -1,6 +1,6 @@
 # Guest List System  
 
-<p>This is a Java project that demonstrated the use of various fundamental principles in Java to build a guest-list management system. The application allows for the management of guest invites and guests to a specific event.</p>
+<p>This is a Java project that demonstrates the use of various fundamental principles in Java to build a guest-list management system. The application allows for the management of guest invites and guests to a specific event.</p>
 
 ## Principles Used
 <ul>
